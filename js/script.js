@@ -46,6 +46,7 @@ $(document).ready(function(){
         }
     }).resize();
 
-
     
 });
+
+//js파일 주석 추가
